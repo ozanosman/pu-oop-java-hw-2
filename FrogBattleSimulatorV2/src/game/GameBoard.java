@@ -255,7 +255,6 @@ public class GameBoard extends JFrame implements MouseListener
         return this.getBoardFrogGuard(row, col) != null;
     }
 
-
     /**
      * Метод, който връща координати на игралната дъска в единични числа.
      *
